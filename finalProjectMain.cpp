@@ -18,7 +18,7 @@
 int main() {
 
 	std::cout << "Welcome to Hogwarts School of Witchcraft and Wizardry!" << std::endl;
-	std::cout << "You shall be referred to from here on out...Dobby!" << std::endl;
+	std::cout << "You shall be referred to from here on out as...Dobby!" << std::endl;
 	std::cout << "Your GOAL, Dobby, is to reach the Leaky Cauldron to enjoy a mug of "
 		"frothy butterbeer." << std::endl;
 	std::cout << "Your journey will involve making some hard decisions," << std::endl;
